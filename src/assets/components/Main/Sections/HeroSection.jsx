@@ -44,7 +44,7 @@ function HeroSection() {
       <section className="py-[80px] pl-[60px] bg-[#FBF8F5]">
         <div className="container">
           <div className="flexses justify-around">
-            <div className="max-w-[520px] w-[100%]">
+            <div className="max-w-[530px] w-[100%]">
               <h1 className="font-['Roboto'] font-normal text-[64px] leading-[76px] text-black mb-[16px]">
                 Curated and Convenient
               </h1>
